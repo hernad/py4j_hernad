@@ -1,0 +1,1 @@
+set PATH=c:\dev\apache-maven-3.8.6\bin;c:\dev\jdk-18.0.2.1\bin;%PATH%
